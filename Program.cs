@@ -55,7 +55,7 @@ namespace MessingWithCode
 {
     class Program
     {
-        static void PrintOverwritableMessage(string overwritableMessage = "Penis Wax")
+        static void PrintOverwritableMessage(string overwritableMessage = "e")
         {
             foreach (char letter in overwritableMessage)
             {
